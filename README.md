@@ -1,2 +1,3 @@
 # analog-clock
-fully responsive  analog clock 
+
+I made this clock using HTML CSS and JS.
